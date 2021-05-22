@@ -1,13 +1,19 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+   {
+  "totalCount": 0,
+  "items": [
+      {
+        "facilityId": "string",
+        "location": "string",
+        "description": "string",
+        "lastModificationTime": "2021-05-22T18:28:54.761Z",
+        "lastModifierId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "creationTime": "2021-05-22T18:28:54.761Z",
+        "creatorId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      }
+    ]
+   }
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
 }
