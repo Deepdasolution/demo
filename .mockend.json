@@ -1,19 +1,23 @@
 {
-  "Post": {
-   {
-  "totalCount": 0,
-  "items": [
-      {
-        "facilityId": "string",
-        "location": "string",
-        "description": "string",
-        "lastModificationTime": "2021-05-22T18:28:54.761Z",
-        "lastModifierId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-        "creationTime": "2021-05-22T18:28:54.761Z",
-        "creatorId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
-      }
-    ]
-   }
-  },
+totalCount: 2,
+items: [
+{
+displayName: "Electrician Updated",
+staffTypeIdentifier: 2,
+lastModificationTime: "2021-05-19T18:13:26.274176",
+lastModifierId: null,
+creationTime: "2021-05-19T18:11:46.781027",
+creatorId: null,
+id: "39fc96c4-8301-4c1b-e899-9a504d1ea453"
+},
+{
+displayName: "Cleaner",
+staffTypeIdentifier: 1,
+lastModificationTime: null,
+lastModifierId: null,
+creationTime: "2021-05-19T05:25:44",
+creatorId: null,
+id: "329af998-1ebc-4863-8739-730ebac3c6a3"
+}
+]
 }
