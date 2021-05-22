@@ -1,4 +1,5 @@
 {
+  "Post":{
 totalCount: 2,
 items: [
 {
@@ -21,3 +22,4 @@ id: "329af998-1ebc-4863-8739-730ebac3c6a3"
 }
 ]
 }
+  
